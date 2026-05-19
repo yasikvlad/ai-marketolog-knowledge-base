@@ -23,10 +23,17 @@ _Generated/updated при обработке источников. Ручная 
 
 | ID | Title | Author | Date | Quality | Relevance | Status |
 |----|-------|--------|------|---------|-----------|--------|
+| src-20260401-webinar-ai-sotrudniki | Вебинар-запуск Потока 2 «AI-сотрудники вместо отдела маркетинга» (YouTube, ≈3ч 25м) | Влад Ясько + Сергей Евсюков | 2026-04-01 | 10 | 5 | processed |
+| src-20260518-conference-deck-ai-sotrudniki | Конференц-преза 30 мин «AI-сотрудники для личного бренда» (conference-deck.vercel.app, 19 слайдов) | Влад Ясько | 2026-05 | 9 | 5 | processed |
+| src-20260518-aimarketolog-site-current | AI-Маркетолог лендинг АКТУАЛЬНОЕ (new.aimarketolog.site, 9 нед, $397-$2999) | Влад Ясько | 2026-05-18 | 9 | 5 | processed |
 | src-20260513-aimarketolog-site-new | AI-Маркетолог Поток II лендинг (https://new.aimarketolog.site/) | Влад Ясько | 2026-04 | 7 | 5 | processed |
 | src-20260513-vlad-voice-product-pitch | Голосовое 14 мин — продуктовая визия от первого лица | Влад Ясько | 2026-05-13 | 9 | 5 | processed |
 | src-20260513-vlad-tg-sales-message | Telegram продающий пост (warm channel) | Влад Ясько | 2026-04 | 9 | 5 | processed |
 | src-20260513-knowledge-base-archive | Архив транскрипций Потока 1+2 + TG-экспорты | Влад Ясько | 2026-02..05 | 10 | 5 | inventory only (extraction in queue) |
+| src-20260407-graduation-meeting | Выпускная встреча Потока 1 (8 кейсов + анонсы Влада) | Влад + участники | 2026-04-07 | 10 | 5 | processed |
+| src-20260513-team-zoom-architecture | Зум команды 13 мая (архитектура, AI-обзвон, магазин агентов) | Команда AI-Маркетолог | 2026-05-13 | 9 | 5 | processed |
+| src-20260306-team-meeting-protocol | Протокол команды 6 марта (старт AI-Маркетолог 2.0) | Команда | 2026-03-06 | 9 | 5 | processed |
+| src-20260204-onboarding-stream | ONBOARDING-стрим Потока 1 (3.5ч, прочитано ~15%) | Влад Ясько | ~2026-02 | 10 | 5 | partial (rest in queue) |
 
 ## Notes
 
@@ -68,6 +75,27 @@ _Generated/updated при обработке источников. Ручная 
 | n-test-mode-confession | «Сейчас программу запускал в тестовом режиме» | H |
 | n-digital-employees-200h-2000-upsale | 27 сотрудников = 200+ часов, будут $2000+ stand-alone | H |
 | n-two-funnels-cold-vs-warm | Холодный (лендинг) + тёплый (Telegram) — раздвоение воронки | H |
+| n-webinar-skeleton-14-blocks | Скелет вебинара Влада — 14 функциональных блоков на 205 мин | H |
+| n-webinar-live-demo-on-stranger | Live-демо на случайном зрителе из чата — главный продающий механизм | H |
+| n-webinar-dopamine-rhythm-pattern | Цикл «обещание → пауза → подарок» каждые 30-40 мин держит 3.5 часа | H |
+| n-zolotoy-dozhd-payment-channel | Отдельный TG-канал «Золотой дождь» — нотификации о платежах в реальном времени | H |
+| n-pipeline-8-stages-canonical | Каноничный AI-пайплайн Влада — 8 этапов от Research до Таргета | H |
+| n-conference-vs-webinar-compression | Конференц 30 мин ловит в воронку, вебинар 3.5 ч закрывает продажу | H |
+| n-pricing-update-2026-05-18 | Сетка $397/$647(SOLD OUT)/$1499/$2999 + Спецбронь $25 | H |
+| n-bonuses-stack-2700 | Бонусы сжаты до 2 на $2 700 (раньше 6 на $4 200) — оптимизация ценностей | H |
+| n-ratcheting-pricing-pattern | Влад поднимает цены каждые ~5 дней до старта потока | H |
+| n-graduation-cases-real-results | 8 кейсов выпускников Потока 1 с конкретными результатами | H |
+| n-saas-30min-vision | SaaS «ниша за 30 мин» в разработке (Поток-N+ продукт) | H |
+| n-ai-agent-sells-stratsessions-1500 | AI-агент Влада продаёт стратсессии $1500/день пассивно | H |
+| n-philosophy-ai-optimization-innovation | AI-мышление = оптимизация + инновация, не автоматизация | H |
+| n-ai-call-reactivation-base | AI-обзвон 3-6К базы голосом Влада ($3500 себестоимость) | H |
+| n-store-of-ai-employees | «Магазин AI-сотрудников» — новая бизнес-модель команды | H |
+| n-reverse-engineering-failure-mindset | «Кто приведёт к неудаче» — реверс-инжиниринг мышления | H |
+| n-modular-business-lego | Модульная архитектура бизнеса = LEGO | M |
+| n-2-actions-equal-money | «2 действия = деньги» — Говорю (контент) + Продаю (личка) | H |
+| n-vlad-audience-personal-asset | Аудитория = личный актив Влада, % только с новых направлений | H |
+| n-metching-stacking-method | Метод «metching/stacking» — маркетолог × эксперт на курсе | H |
+| n-vlad-son-14-yo-300-case | Сын Влада 14 лет — $300 за выходные через вайб-кодинг | H |
 
 ## Claims
 
@@ -84,6 +112,8 @@ _Generated/updated при обработке источников. Ручная 
 | c-0009 | Многоуровневая urgency-механика — рабочая | H | active |
 | c-0010 | Якорь $2500 заменил $3500 | H | active (supersedes c-0002) |
 | c-0011 | Двухканальная воронка: холодный + тёплый | H | active |
+| c-0012 | Кейсы Потока 1 — главное доказательство методологии для лендинга Потока 2 | H | active |
+| c-0013 | Экосистема 3 продуктов: курс + магазин AI-сотрудников + SaaS «ниша за 30 мин» | H | active |
 
 ## Syntheses
 

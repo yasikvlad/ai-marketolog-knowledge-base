@@ -6,7 +6,7 @@ sources: [src-20260513-aimarketolog-site-new]
 confidence: H
 created: 2026-05-13
 supersedes: []
-superseded_by: null
+superseded_by: n-bonuses-stack-2700
 ---
 
 # 6 бонусов общей ценностью $4 200 внутри пакета «Участник» — упаковка ценности, не доплата

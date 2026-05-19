@@ -6,7 +6,7 @@ sources: [src-20260513-aimarketolog-site-new]
 confidence: H
 created: 2026-05-13
 supersedes: [n-pricing-tiers-and-anchor]
-superseded_by: null
+superseded_by: n-pricing-update-2026-05-18
 ---
 
 # Ценовая сетка Потока II — $297 / $647 / $997 / $2500 + Спецбронь $25; динамика «+5 дней → рост»
